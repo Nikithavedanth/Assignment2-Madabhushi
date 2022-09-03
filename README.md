@@ -14,3 +14,12 @@ The **Rajiv Gandhi International Airport** is closest to Salarjung Museum.<br>St
 3) Go straight and then right to himayath nagar.
 4) From there take 2nd exit to afzal ganj 
 5)Go straight you will reach Dar-ul-Shifa and that is your destination.
+---
+# Places to visit other than Museum
+* Jalavihar
+* wonderla
+* Imax
+* Golconda Fort
+* Charminar
+
+
