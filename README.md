@@ -30,3 +30,4 @@ The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you f
 |Mumbai   | Gateway of India| 5|
 |Vizag    | Temple          | 3|
 |Jaipur   |INOX             | 7|
+***
