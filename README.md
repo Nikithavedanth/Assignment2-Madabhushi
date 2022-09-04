@@ -29,9 +29,19 @@ The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you f
 |Hyderabad| charminar       | 4|
 |Mumbai   | Gateway of India| 5|
 |Vizag    | Temple          | 3|
-|Jaipur   |INOX             | 7|
+|Jaipur   | INOX            | 7|
 ***
 ***
 # Quote
 > Life is like riding a bicycle, to keep your balance you must keep moving.*Albert Einstein*<br>
 > Everything has beauty but not everyone sees it. *Dolly parton*
+***
+***
+# Code Fencing
+```
+def sumIt (n):
+x = 0
+for x in range(0,n):
+sum += x
+return sum
+```
