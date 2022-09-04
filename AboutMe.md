@@ -8,4 +8,4 @@ I am an ambivert.<br>
 [Family](C:\Users\S556461\Documents\webapps-repos\Assignment 2\Assignment2-Madabhushi\Assignment2-Madabhushi\Assignment2-Madabhushi\niki.png)
 ![Family](C:\Users\S556461\Documents\webapps-repos\Assignment2\Assignment2-Madabhushi\Assignment2-Madabhushi\Assignment2-Madabhushi\niki.png)
 <C:\Users\S556461\Documents\webapps-repos\Assignment2\Assignment2-Madabhushi\Assignment2-Madabhushi\Assignment2-Madabhushi\niki.png>
-![images](https://user-images.githubusercontent.com/111447690/188324885-a243a25e-c82f-44b3-9504-ddcf1531b9cb.jpg)
+
