@@ -40,7 +40,6 @@ The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you f
 ***
 ***
 # Code Fencing
-```
 >why we use System font stack in CSS?
 [question](https://stackoverflow.com/questions/62848039/what-is-the-system-font-stack)
 ```
@@ -49,12 +48,7 @@ The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you f
   font-style: normal;
   font-weight: 300;
   src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
-}
-
-/* Now, let's apply it on an element */
-body {
-  font-family: "system-ui";
-}
+   }
 ```
 [code snippet](https://css-tricks.com/snippets/css/system-font-stack/)
 ***
