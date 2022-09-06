@@ -35,7 +35,8 @@ The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you f
 ***
 ***
 # Quote
-> Life is like riding a bicycle, to keep your balance you must keep moving.*Albert Einstein*<br>
+> Life is like riding a bicycle, to keep your balance you must keep moving.*Albert Einstein*
+
 > Everything has beauty but not everyone sees it. *Dolly parton*
 ***
 ***
