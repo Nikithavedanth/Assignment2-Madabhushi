@@ -43,6 +43,7 @@ The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you f
 ```
 >why we use System font stack in CSS?
 [question](https://stackoverflow.com/questions/62848039/what-is-the-system-font-stack)
+```
 @font-face {
   font-family: system-ui;
   font-style: normal;
@@ -54,6 +55,6 @@ The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you f
 body {
   font-family: "system-ui";
 }
-[code snippet](https://css-tricks.com/snippets/css/system-font-stack/)
 ```
+[code snippet](https://css-tricks.com/snippets/css/system-font-stack/)
 ***
