@@ -41,16 +41,19 @@ The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you f
 ***
 # Code Fencing
 ```
-def sumIt (n):
-x = 0
-for x in range(0,n):
-sum += x
-return sum
+>why we use System font stack in CSS?
+[question](https://stackoverflow.com/questions/62848039/what-is-the-system-font-stack)
+@font-face {
+  font-family: system-ui;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+/* Now, let's apply it on an element */
+body {
+  font-family: "system-ui";
+}
+[code snippet](https://css-tricks.com/snippets/css/system-font-stack/)
 ```
-***
-***
-# Biography
-1) I am currently working on **java programming** and want to explore more on it.
-2) I am interested in *exploring* the world and ***socializing*** with people.
-3) I am interested in *watching series*.
 ***
