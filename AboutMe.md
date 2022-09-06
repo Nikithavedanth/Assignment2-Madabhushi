@@ -5,6 +5,6 @@ I love to Sing and listen to music.<br>
 I love playing video games.<br>
 I love my family.<br>
 I am an ambivert.<br>
-![Nikki](C:\Users\S556461\Documents\webapps-repos\Assignment 2\Assignment2-Madabhushi)<br>
-[Nikki](C:\Users\S556461\Documents\webapps-repos\Assignment 2\Assignment2-Madabhushi)<br>
-<C:\Users\S556461\Documents\webapps-repos\Assignment 2\Assignment2-Madabhushi>
+![Nikki](C:\Users\S556461\Documents\webapps-repos\Assignment 2\Assignment2-Madabhushi\hi)<br>
+[Nikki](C:\Users\S556461\Documents\webapps-repos\Assignment 2\Assignment2-Madabhushi\hi)<br>
+<C:\Users\S556461\Documents\webapps-repos\Assignment 2\Assignment2-Madabhushi\hi>
