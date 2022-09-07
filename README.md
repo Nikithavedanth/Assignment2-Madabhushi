@@ -26,7 +26,7 @@ The **Rajiv Gandhi International Airport** is closest to Salarjung Museum.<br>St
 ***
 # Tables
 The cities that i recommend to visit are hyderabad, vizag, mumbai, jaipur. you find most of the attractive places to watch in these cities like red fort, golconda, salarjung museum, charminar, etc..... 
-|Name of a city|location to visit of city|amount of time spent in this city
+|Name of a city|Location to visit of city|Amount of time spent in this city
 |---      |---              |---|
 |Hyderabad| charminar       | 4|
 |Mumbai   | Gateway of India| 5|
