@@ -6,6 +6,5 @@ I love playing video games.<br>
 I love my family.<br>
 I am an ambivert.<br>
 ![Nikki](Nikki.jpg)
-[Nikki](Nikki.jpg)
-<Nikki.jpg>
+
 
